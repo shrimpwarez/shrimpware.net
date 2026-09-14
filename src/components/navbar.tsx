@@ -19,9 +19,9 @@ const Navbar = () => {
                     </button>
                     <div className="collapse navbar-collapse" id="navbar-content">
                         <ul className="navbar-nav w-100">
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <a href="/" className="nav-link" onClick={(e) => handleLinkClick(e, "/")}>Home</a>
-                            </li>
+                            </li> */}
                         </ul>
                     </div>
                 </div>
