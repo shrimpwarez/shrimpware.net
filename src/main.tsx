@@ -8,8 +8,8 @@ import Navbar from './components/navbar.tsx'
 import Footer from './components/footer.tsx'
 
 // Pages
-import Index from './pages/index.jsx'
-import Error from './pages/error.jsx'
+import Index from './pages/index.tsx'
+import Error from './pages/error.tsx'
 
 // Bootstrap
 import 'bootstrap/dist/js/bootstrap.bundle.min.js';
