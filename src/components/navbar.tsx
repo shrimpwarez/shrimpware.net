@@ -1,13 +1,13 @@
-import type { MouseEvent } from 'react';
+// import type { MouseEvent } from 'react';
 
 const Navbar = () => {
     // Prevent default behavior to control the page reload
-    const handleLinkClick = (e: MouseEvent<HTMLAnchorElement>, url: string) => {
-        e.preventDefault();
-        setTimeout(() => {
-            window.location.href = url;
-        }, 0); 
-    };
+    // const handleLinkClick = (e: MouseEvent<HTMLAnchorElement>, url: string) => {
+    //     e.preventDefault();
+    //     setTimeout(() => {
+    //         window.location.href = url;
+    //     }, 0); 
+    // };
 
     return (
         <div className="top-container">
