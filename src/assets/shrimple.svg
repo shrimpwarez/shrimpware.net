@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="50mm"
+   version="1.2"
+   viewBox="0 0 500 500"
+   width="50mm"
+   id="svg99"
+   sodipodi:docname="shrimple.svg"
+   inkscape:version="1.4.4 (dcaf3e7d9e, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <sodipodi:namedview
+     id="namedview99"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="4.2656217"
+     inkscape:cx="59.780267"
+     inkscape:cy="83.80959"
+     inkscape:window-width="2560"
+     inkscape:window-height="1410"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Default_Template_A4_Landscape.svg" />
+  <title
+     id="title1">FreeCAD SVG Export</title>
+  <desc
+     id="desc1">Drawing page: Page exported from FreeCAD document: shrimple</desc>
+  <defs
+     id="defs1" />
+  <g
+     id="Page"
+     inkscape:groupmode="layer"
+     inkscape:label="TechDraw"
+     transform="translate(-1214.9123,-809.64911)">
+    <g
+       id="Default_Template_A4_Landscape.svg"
+       style="stroke:none"
+       transform="scale(10)"
+       sodipodi:insensitive="true">
+      <metadata
+         id="metadata8">
+        <rdf:RDF>
+          <cc:Work
+             rdf:about="">
+            <dc:format>image/svg+xml</dc:format>
+            <dc:type
+               rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+          </cc:Work>
+        </rdf:RDF>
+      </metadata>
+      <rect
+         style="fill:#00000000;fill-opacity:1;stroke:none;stroke-width:2.64583;stroke-opacity:1;paint-order:stroke fill markers"
+         id="rect99"
+         width="500"
+         height="500"
+         x="1214.9124"
+         y="809.64911"
+         transform="matrix(0.1,0,0,0.1,-1.1980955e-6,1.2635466e-6)" />
+    </g>
+    <g
+       fill="none"
+       fill-rule="evenodd"
+       id="DrawingContent"
+       stroke="#000000"
+       stroke-linecap="square"
+       stroke-linejoin="bevel"
+       stroke-width="1">
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g1"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 0.342762,-105.574 -7.732442,-35.126 -116.22432,4.618 -47.197,37.0467 20.223,36.1146 76.8139,0.7578 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path1"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g2"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 143.635,-34.3139 20.245,-28.6371 -50.119,-44.39 -1.178,37.6221 -64.6773,18.8301 33.5043,19.3437 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path2"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g3"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 187.548,11.5935 -18.282,-66.1192 -21.501,29.3188 H 89.1448 L 113.211,6.22852 154.595,26.8707 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path3"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g4"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 104.285,-75.2994 0.658,-36.7576 -57.7274,-20.323 13.1962,38.037 -58.89403,28.8146 37.13683,10.8427 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path4"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g5"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M 159.853,131.49 176.059,88.2407 139.967,88.0478 113.541,70.9332 92.6438,105.434 120.196,131.782 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path5"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g6"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 178.832,78.633 8.787,-57.0397 -34.085,15.221 -36.709,-21.2616 v 45.9351 l 26.512,17.1452 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path6"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g7"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 50.7712,-96.9999 -13.3291,-37.4961 -34.8749,-5.276 7.7138,35.307 -57.0256,32.7107 38.44502,4.3233 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path7"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g8"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m -176.986,-106.901 c -2.983,-19.206 -7.37,-34.694 -7.004,-46.596 1.146,-37.259 48.874,-39.392 110.923,-33.216 81.87122,8.15 188.676,30.766 246.306,6.251 -14.521,-0.13 -27.2,2.822 -41.139,4.503 -59.66,7.192 -142.4085,-8.92 -208.774,-15.527 -62.049,-6.176 -109.777,-4.043 -110.923,33.216 -0.366,11.902 4.021,27.389 10.611,51.369 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path8"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g9"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M 111.569,136.922 86.1558,113.044 44.8431,149.843 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path9"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g10"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m 127.376,194.147 28.362,-53.542 h -34.872 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path10"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g11"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M -9.41709,-57.4936 -32.3837,-26.3609 -47.8621,-61.817 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path11"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g12"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M 35.852,-45.0865 7.89351,-18.3464 -1.28488,-55.9292 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path12"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g13"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="M 76.41,-22.8849 42.9057,-3.54118 V -42.2285 Z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path13"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g14"
+         style="fill:#000000;fill-opacity:1">
+        <path
+           d="m -111.265,-120.349 -6.175,-7.866 -23.598,18.523 18.523,23.5984 7.866,-6.1744 -12.349,-15.732 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path14"
+           style="fill:#000000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g15"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m -149.508,-128.469 -3.879,3.044 -4.242,-29.698 27.84,11.175 -3.879,3.045 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path15"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g16"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m -98.9622,-147.069 4.9274,-0.196 -16.0202,-25.364 -13.956,26.555 4.927,-0.195 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path16"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g17"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m -98.9622,-147.069 4.9274,-0.196 -16.0202,-25.364 -13.956,26.555 4.927,-0.195 9.369,-17.826 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path17"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g18"
+         style="fill:#d40000;fill-opacity:1">
+        <path
+           d="m -129.789,-143.948 -3.879,3.045 -18.688,-7.501 2.848,19.935 -3.879,3.044 -4.242,-29.698 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path18"
+           style="fill:#d40000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g19"
+         style="fill:#780000;fill-opacity:1">
+        <path
+           d="m -149.508,-128.469 15.84,-12.434 -18.688,-7.501 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path19"
+           style="fill:#780000;fill-opacity:1" />
+      </g>
+      <g
+         fill="#f1f3f5"
+         fill-opacity="1"
+         font-family="'DejaVu LGC Sans'"
+         font-size="42.3333px"
+         font-style="normal"
+         font-weight="400"
+         stroke="none"
+         transform="translate(1488.5088,1063.1903)"
+         id="g20"
+         style="fill:#780000;fill-opacity:1">
+        <path
+           d="m -98.9622,-147.069 -10.7528,-17.026 -9.369,17.826 z"
+           fill-rule="evenodd"
+           vector-effect="non-scaling-stroke"
+           id="path20"
+           style="fill:#780000;fill-opacity:1" />
+      </g>
+    </g>
+  </g>
+</svg>
